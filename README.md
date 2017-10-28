@@ -12,8 +12,8 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 ## Lightmap Settings 
 
-- I trid uncompressed lightmap first, and it worked well.
-- Then I trid compressed lightmap, I found its quality was lower than uncompressed lightmap, which made me uncomfortable.
+- I tried uncompressed lightmap first, and it worked well.
+- Then I tried compressed lightmap, I found its quality was lower than uncompressed lightmap, which made me uncomfortable.
 
 ## Note
 
